@@ -1,0 +1,23 @@
+h2{
+    color: rgb(12, 49, 255);
+}
+
+p{
+    color: green;
+}
+
+#mn{
+   text-align: center;
+   justify-items: center;
+}
+
+#mn2{
+    justify-content: center;
+    text-align: center;
+}
+
+#into{
+    font-size: 23px;
+    color: brown;
+}
+
