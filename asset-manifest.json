@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Moeen-Maqbool/static/css/main.cf890fdb.css",
+    "main.js": "/Moeen-Maqbool/static/js/main.63503407.js",
+    "static/js/453.79012ded.chunk.js": "/Moeen-Maqbool/static/js/453.79012ded.chunk.js",
+    "index.html": "/Moeen-Maqbool/index.html",
+    "main.cf890fdb.css.map": "/Moeen-Maqbool/static/css/main.cf890fdb.css.map",
+    "main.63503407.js.map": "/Moeen-Maqbool/static/js/main.63503407.js.map",
+    "453.79012ded.chunk.js.map": "/Moeen-Maqbool/static/js/453.79012ded.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf890fdb.css",
+    "static/js/main.63503407.js"
+  ]
+}
