@@ -1,5 +1,6 @@
 import React from 'react'
 import propTypes from 'prop-types'
+import Data from './Data'
 // import { Link } from 'react-router-dom'
 
 function Navbar(props) {
@@ -20,13 +21,17 @@ function Navbar(props) {
           <a className="nav-link active text-black" aria-current="page" href="#">Home</a>
         </li>
         <li className="nav-item">
-          {/* <Link className="nav-link text-black" to="/about">{props.AboutText}</Link> */}
+         
         </li>
 
         <li className="nav-item">
-          <a className="nav-link text-black" href="/mydata">My Data</a>
+          <a className="nav-link text-black" href="#">My Data</a>
+     
         </li>
         
+
+
+
       </ul>
       <form className="d-flex">
         <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>

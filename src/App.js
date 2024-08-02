@@ -1,18 +1,10 @@
 import Alert from './compponents/Alert';
 import Navbar from './compponents/Navbar';
 import TextForm from './compponents/TextForm';
-// import About from './compponents/About';
+import About from './compponents/About';
+import Data from './compponents/Data';
 import React, {useState} from 'react'
 
-// import {
-//   BrowserRouter as Router,
-//   Switch,
-//   Route,
-//   Link,
-//   Routes
-// } from "react-router-dom";
-// import Data from './compponents/Data';
-// import Footer from './compponents/Footer';
 
 
 
@@ -66,28 +58,27 @@ setInterval(() => {
 
   return (
 <>   
- {/* import compponents */}
-{/* <Navbar title= "MoeenQfr" AboutText="About" mode={mode} /> */}
-{/* <Router> */}
+
+
+ 
 <Navbar title= "MoeenQfr" mode={mode} toggleMode={toggleMode} />
+
 <Alert Alert={alert} />
-<div className='container my-3 fs-4'>
-<TextForm showAlert={showAlert} heading="Enter the Text to Analyze Below" mode={mode} />
-{/* <Routes>
-  
-  <Route path="/mydata" element={<Data/>} />
-      {/* <Route exact path="/about">
-          <About />
-          </Route> */}
-          {/* <Route path="/about" element={<About />} /> */}
-              {/* <Route exact path="/">
-              <TextForm showAlert={showAlert} heading="Enter the Text to Analyze Below" mode={mode} />
-      </Route> */}
-      {/* <Route path="/" element={<TextForm showAlert={showAlert} heading="Enter the Text to Analyze Below" mode={mode} />} /> */}
-{/* </Routes> */}
+
+
+
+<div className='container my-3 fs-5'>
+
+
+
+<TextForm showAlert={showAlert} heading="Try TextUtills - Moeen Maqbool - Words Counter Chracter Counter & Remove Extra Spacess" mode={mode} />
+<About/>
+
+<Data/>
+
+ 
 </div>
-{/* </Router> */}
-{/* <Footer/> */}
+
 </>
   );
 }
