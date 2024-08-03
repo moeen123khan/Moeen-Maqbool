@@ -1,4 +1,5 @@
 {
+  "homepage": "https://moeen123khan.github.io/Maqbool-thaheem",
 
   "name": "next-app",
 
@@ -31,6 +32,9 @@
   },
 
   "scripts": {
+
+    "predeploy": "npm run build",
+"deploy": "gh-pages -d build",
 
     "start": "react-scripts start",
 
