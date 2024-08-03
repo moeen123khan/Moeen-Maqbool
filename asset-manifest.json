@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Moeen-khan-thaheem/static/css/main.c5706a79.css",
-    "main.js": "/Moeen-khan-thaheem/static/js/main.bff8c848.js",
-    "static/js/453.79012ded.chunk.js": "/Moeen-khan-thaheem/static/js/453.79012ded.chunk.js",
-    "index.html": "/Moeen-khan-thaheem/index.html",
-    "main.c5706a79.css.map": "/Moeen-khan-thaheem/static/css/main.c5706a79.css.map",
-    "main.bff8c848.js.map": "/Moeen-khan-thaheem/static/js/main.bff8c848.js.map",
-    "453.79012ded.chunk.js.map": "/Moeen-khan-thaheem/static/js/453.79012ded.chunk.js.map"
+    "main.css": "/Maqbool-thaheem/static/css/main.c5706a79.css",
+    "main.js": "/Maqbool-thaheem/static/js/main.7d1e00c2.js",
+    "static/js/453.79012ded.chunk.js": "/Maqbool-thaheem/static/js/453.79012ded.chunk.js",
+    "index.html": "/Maqbool-thaheem/index.html",
+    "main.c5706a79.css.map": "/Maqbool-thaheem/static/css/main.c5706a79.css.map",
+    "main.7d1e00c2.js.map": "/Maqbool-thaheem/static/js/main.7d1e00c2.js.map",
+    "453.79012ded.chunk.js.map": "/Maqbool-thaheem/static/js/453.79012ded.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5706a79.css",
-    "static/js/main.bff8c848.js"
+    "static/js/main.7d1e00c2.js"
   ]
 }
